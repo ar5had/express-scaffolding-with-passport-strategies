@@ -1,2 +1,2 @@
-# nightlife-coordination-app
-A full stack JavaScript app for nightlife coordination.
+# express-scaffolding-with-passport-strategies
+Express boilerplate with all social media passport strategies.
